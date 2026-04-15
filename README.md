@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nitin-arya">
+  <a href="https://www.linkedin.com/in/nitin-arya-a26610255?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-%230D1117.svg?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
   </a>
   <a href="https://github.com/nitinarya1">
